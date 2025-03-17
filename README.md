@@ -6,17 +6,16 @@
 <!-- github-profile-trophy -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhilinggavin" alt="zhilinggavin" /></a> </p> -->
 
-- 🔭 I’m currently working on [Gen AI & Weakly Supervised Segmentation](https://github.com/zhilinggavin/genai-wsss)
+- 🔭 I’m currently working on **Gen AI for Medical Imaging**
 
 - 🌱 I’m currently learning **AI Agent**
 
-- 👨‍💻 All of my projects are available at [https://gavin-yue.netlify.app/about/](https://gavin-yue.netlify.app/about/)
+- 👨‍💻 All of my projects are available [Here](https://gavin-yue.netlify.app/about/)
 
-- 💬 My Website **https://gavin-yue.netlify.app/**
+- 💬 My [Website](https://gavin-yue.netlify.app/)
 
-- 📫 How to reach me **zhilinggavin@gmail.com**
-
-- 📄 Know about my experiences [https://gavin-yue.netlify.app/CV-Gavin-MLEngineer.pdf](https://gavin-yue.netlify.app/CV-Gavin-MLEngineer.pdf)
+<!-- - 📫 How to reach me **zhilinggavin@gmail.com** -->
+<!-- - 📄 Know about my experiences [https://gavin-yue.netlify.app/CV-Gavin-MLEngineer.pdf](https://gavin-yue.netlify.app/CV-Gavin-MLEngineer.pdf) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
